@@ -8,14 +8,16 @@ const Input = () => {
     const [input, setInput] = useState('')
     const dispatch = useDispatch()
     const addToDo = () => {
-        console.log(`Adding ${input}`)
-
-        dispatch(saveToDo({
-            item: input,
-            done: false,
-            id: Date.now()
-        }))
-        document.querySelector('#inputType').value = ' '
+        if(input === ''){
+            alert('You must write something!')
+        }else{
+            dispatch(saveToDo({
+                item: input,
+                done: false,
+                id: Date.now()
+            }))
+            setInput('')
+        }
     }
     
     return (
