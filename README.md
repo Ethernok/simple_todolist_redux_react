@@ -1,5 +1,7 @@
-# Simple ToDo List made with React and Redux 📳
+# Simple Todo List made with React and Redux 📳
 _‼ IMPORTANT ‼ This project tries to be a small application just to understand how redux works with react using reducers, accessing the redux centralized store and implementing all of this with React._
+
+_🌟You also have comments in Spanish in the "documentation" branch that explain the methods, the store, and what each react-redux function does etc._
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
