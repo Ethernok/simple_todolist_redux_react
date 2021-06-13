@@ -3,6 +3,8 @@ _‼ IMPORTANT ‼ This project tries to be a small application just to understa
 
 _🌟You also have comments in Spanish in the "documentation" branch that explain the methods, the store, and what each react-redux function does etc._
 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Starting 🚀
@@ -24,31 +26,35 @@ _You will need:_
 - A web browser
 - Npm or yarn 
 ```
-And done, you can launch the app.
-## Available Scripts
+_And done, you can launch the app._
+
+## Available Scripts 🧰
 
 In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+_Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser._
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+_The page will reload if you make edits.<br />
+You will also see any lint errors in the console._
 
 ## Built with 🛠️
 
-* [React](https://es.reactjs.org/) - Structure, styles & logic
-* [Redux-Toolkit](https://redux-toolkit.js.org/), [Redux](https://redux.js.org/) & [React-Redux](https://react-redux.js.org/)
-* [Material-UI](https://material-ui.com/) - Checkbuttons
+* _[React](https://es.reactjs.org/)_ - Structure, styles & logic
+* _[Redux-Toolkit](https://redux-toolkit.js.org/), [Redux](https://redux.js.org/) & [React-Redux](https://react-redux.js.org/)_ - Required for implementation the Redux logic with React.
+* [Material-UI](https://material-ui.com/) - I use for the checkbuttons
 
 ## License 📄
 
-Free to use to practise and educational purpose, it is good for nothing else.
+_Free to use to practise and educational purpose, it is good for nothing else._
 
+## Support ❤️
 
-## Learn More
+_If you like my rep, I would appreciate it if you could give me a star⭐ to support me, thank you <3._
+
+## Learn More 👀
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
